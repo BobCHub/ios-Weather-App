@@ -12,7 +12,7 @@ Weather is a location-aware weather app. It will find out where you are in the w
 
 ## What I will create
 
-I purpose a weather app using the Openweathermap weather API. The main page uses geo location to bring up the users local weather. The user can use switch button to migrate to screen and select new city. The intended Audience is anyone that is interested in the current
+I purpose a weather app using the [Openweathermap weather API](https://openweathermap.org/). The main page uses geo location to bring up the users local weather. The user can use switch button to migrate to screen and select new city. The intended Audience is anyone that is interested in the current
 weather. By bringing up the app you get the current weather instantly.
 
 ## Screens
@@ -39,10 +39,10 @@ weather. By bringing up the app you get the current weather instantly.
 * How to pass data between View Controllers.
 * Learn and use Switch statements
 
-## Libraries I used - CocoaPods is a dependency manager for Swift 
+## Libraries I used -  [CocoaPods is a dependency manager for Swift](https://cocoapods.org/)
 
-* CoreLocation  -  Core Location provides services for determining a device's geographic location
-* Alamofire     - Alamofire is an HTTP networking library written in Swift
-* SwiftyJSON    -  SwiftyJSON makes it easy to deal with JSON data in Swift.
+* [CoreLocation](https://developer.apple.com/documentation/corelocation) - Core Location provides services for determining a device's geographic location
+* [Alamofire](https://cocoapods.org/pods/Alamofire) - Alamofire is an HTTP networking library written in Swift
+* [SwiftyJSON](https://cocoapods.org/pods/SwiftyJSON) -  SwiftyJSON makes it easy to deal with JSON data in Swift.
 
 
