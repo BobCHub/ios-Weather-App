@@ -12,7 +12,7 @@ Weather is a location-aware weather app. It will find out where you are in the w
 
 ## What I will create
 
-I purpose a weather app using the [Openweathermap weather API](https://openweathermap.org/). The main page uses geo location to bring up the users local weather. The user can use switch button to migrate to screen and select new city. The intended Audience is anyone that is interested in the current
+I purpose a weather app using the [Openweathermap weather API](https://openweathermap.org/api). The main page uses geo location to bring up the users local weather. The user can use switch button to migrate to screen and select new city. The intended Audience is anyone that is interested in the current
 weather. By bringing up the app you get the current weather instantly.
 
 ## Screens
