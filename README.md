@@ -5,7 +5,7 @@
 
 ## My Goal
 
-Develop a iOS Weather App ![alt text](https://raw.githubusercontent.com/BobCHub/ios-Weather-App/tree/master/weather_app_icon)
+Develop a iOS Weather App ![alt text](https://raw.githubusercontent.com/BobCHub/ios-Weather-App/tree/master/weather_app_icon/Icon-Small@3x.png)
 
 Weather is a location-aware weather app. It will find out where you are in the world and query an open source weather service to retrieve the temperature and weather conditions. Also, you can change the city at the tap of a button. Want to know what it’s like in Victoria? Weather is here to help. 
 
