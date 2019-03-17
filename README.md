@@ -43,7 +43,8 @@ weather. By bringing up the app you get the current weather instantly.
 
 - [ ] Intragration of pList for City search auto-complete using openweathermap json response
 - [ ] Add Three day Weather Forcast
-- [ ] Add More API Information
+- [ ] Add More API Information to screen - Humitity, Counrty Code, Weather Description
+- [ ] Add UI Switch to toggle between Celcius and Fahrenheit
 
 ## Libraries I used -  [CocoaPods is a dependency manager for Swift](https://cocoapods.org/)
 
