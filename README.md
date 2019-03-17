@@ -18,14 +18,13 @@ screen and select new city. The intended Audience is anyone that is interested i
 weather. By bringing up the app you get the current weather instantly.
 Screens
 1. On Launch - location based weather screen
-• get Geolocation and send to Openweathermap weather API to acquire local weather data
-using my API Key
-• Displays Current Temperature and Weather Condition (Image)
-• Possible background from Unsplash Picture API
+* get Geolocation and send to Openweathermap weather API to acquire local weather data using my API Key
+* Displays Current Temperature and Weather Condition (Image)
+* Possible background from Unsplash Picture API
 2. Search Screen - Search different City
-• Allow User to get weather in different City.
+* Allow User to get weather in different City.
 3. Weather Screen for selected City
-• Displays Current Temperature and Weather Condition (Image)
+* Displays Current Temperature and Weather Condition (Image)
 
 
 ## What I have learned
@@ -40,5 +39,11 @@ using my API Key
 * Introduction to Delegates and Protocols.
 * How to pass data between View Controllers.
 * Learn and use Switch statements
+
+## Libraries I used - CocoaPods is a dependency manager for Swift 
+
+* CoreLocation  -  Core Location provides services for determining a device's geographic location
+* Alamofire     - Alamofire is an HTTP networking library written in Swift
+* SwiftyJSON    -  SwiftyJSON makes it easy to deal with JSON data in Swift.
 
 
