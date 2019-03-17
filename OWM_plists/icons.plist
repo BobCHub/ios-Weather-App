@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>200</key>
+	<dict>
+		<key>icon</key>
+		<string>storm-showers</string>
+		<key>label</key>
+		<string>thunderstorm with light rain</string>
+	</dict>
+	<key>201</key>
+	<dict>
+		<key>icon</key>
+		<string>storm-showers</string>
+		<key>label</key>
+		<string>thunderstorm with rain</string>
+	</dict>
+	<key>202</key>
+	<dict>
+		<key>icon</key>
+		<string>storm-showers</string>
+		<key>label</key>
+		<string>thunderstorm with heavy rain</string>
+	</dict>
+	<key>210</key>
+	<dict>
+		<key>icon</key>
+		<string>storm-showers</string>
+		<key>label</key>
+		<string>light thunderstorm</string>
+	</dict>
+	<key>211</key>
+	<dict>
+		<key>icon</key>
+		<string>thunderstorm</string>
+		<key>label</key>
+		<string>thunderstorm</string>
+	</dict>
+	<key>212</key>
+	<dict>
+		<key>icon</key>
+		<string>thunderstorm</string>
+		<key>label</key>
+		<string>heavy thunderstorm</string>
+	</dict>
+	<key>221</key>
+	<dict>
+		<key>icon</key>
+		<string>thunderstorm</string>
+		<key>label</key>
+		<string>ragged thunderstorm</string>
+	</dict>
+	<key>230</key>
+	<dict>
+		<key>icon</key>
+		<string>storm-showers</string>
+		<key>label</key>
+		<string>thunderstorm with light drizzle</string>
+	</dict>
+	<key>231</key>
+	<dict>
+		<key>icon</key>
+		<string>storm-showers</string>
+		<key>label</key>
+		<string>thunderstorm with drizzle</string>
+	</dict>
+	<key>232</key>
+	<dict>
+		<key>icon</key>
+		<string>storm-showers</string>
+		<key>label</key>
+		<string>thunderstorm with heavy drizzle</string>
+	</dict>
+	<key>300</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>light intensity drizzle</string>
+	</dict>
+	<key>301</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>drizzle</string>
+	</dict>
+	<key>302</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>heavy intensity drizzle</string>
+	</dict>
+	<key>310</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>light intensity drizzle rain</string>
+	</dict>
+	<key>311</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>drizzle rain</string>
+	</dict>
+	<key>312</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>heavy intensity drizzle rain</string>
+	</dict>
+	<key>313</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>shower rain and drizzle</string>
+	</dict>
+	<key>314</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>heavy shower rain and drizzle</string>
+	</dict>
+	<key>321</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>shower drizzle</string>
+	</dict>
+	<key>500</key>
+	<dict>
+		<key>icon</key>
+		<string>rain</string>
+		<key>label</key>
+		<string>light rain</string>
+	</dict>
+	<key>501</key>
+	<dict>
+		<key>icon</key>
+		<string>rain</string>
+		<key>label</key>
+		<string>moderate rain</string>
+	</dict>
+	<key>502</key>
+	<dict>
+		<key>icon</key>
+		<string>rain</string>
+		<key>label</key>
+		<string>heavy intensity rain</string>
+	</dict>
+	<key>503</key>
+	<dict>
+		<key>icon</key>
+		<string>rain</string>
+		<key>label</key>
+		<string>very heavy rain</string>
+	</dict>
+	<key>504</key>
+	<dict>
+		<key>icon</key>
+		<string>rain</string>
+		<key>label</key>
+		<string>extreme rain</string>
+	</dict>
+	<key>511</key>
+	<dict>
+		<key>icon</key>
+		<string>rain-mix</string>
+		<key>label</key>
+		<string>freezing rain</string>
+	</dict>
+	<key>520</key>
+	<dict>
+		<key>icon</key>
+		<string>showers</string>
+		<key>label</key>
+		<string>light intensity shower rain</string>
+	</dict>
+	<key>521</key>
+	<dict>
+		<key>icon</key>
+		<string>showers</string>
+		<key>label</key>
+		<string>shower rain</string>
+	</dict>
+	<key>522</key>
+	<dict>
+		<key>icon</key>
+		<string>showers</string>
+		<key>label</key>
+		<string>heavy intensity shower rain</string>
+	</dict>
+	<key>531</key>
+	<dict>
+		<key>icon</key>
+		<string>showers</string>
+		<key>label</key>
+		<string>ragged shower rain</string>
+	</dict>
+	<key>600</key>
+	<dict>
+		<key>icon</key>
+		<string>snow</string>
+		<key>label</key>
+		<string>light snow</string>
+	</dict>
+	<key>601</key>
+	<dict>
+		<key>icon</key>
+		<string>snow</string>
+		<key>label</key>
+		<string>snow</string>
+	</dict>
+	<key>602</key>
+	<dict>
+		<key>icon</key>
+		<string>snow</string>
+		<key>label</key>
+		<string>heavy snow</string>
+	</dict>
+	<key>611</key>
+	<dict>
+		<key>icon</key>
+		<string>sleet</string>
+		<key>label</key>
+		<string>sleet</string>
+	</dict>
+	<key>612</key>
+	<dict>
+		<key>icon</key>
+		<string>sleet</string>
+		<key>label</key>
+		<string>shower sleet</string>
+	</dict>
+	<key>615</key>
+	<dict>
+		<key>icon</key>
+		<string>rain-mix</string>
+		<key>label</key>
+		<string>light rain and snow</string>
+	</dict>
+	<key>616</key>
+	<dict>
+		<key>icon</key>
+		<string>rain-mix</string>
+		<key>label</key>
+		<string>rain and snow</string>
+	</dict>
+	<key>620</key>
+	<dict>
+		<key>icon</key>
+		<string>rain-mix</string>
+		<key>label</key>
+		<string>light shower snow</string>
+	</dict>
+	<key>621</key>
+	<dict>
+		<key>icon</key>
+		<string>rain-mix</string>
+		<key>label</key>
+		<string>shower snow</string>
+	</dict>
+	<key>622</key>
+	<dict>
+		<key>icon</key>
+		<string>rain-mix</string>
+		<key>label</key>
+		<string>heavy shower snow</string>
+	</dict>
+	<key>701</key>
+	<dict>
+		<key>icon</key>
+		<string>sprinkle</string>
+		<key>label</key>
+		<string>mist</string>
+	</dict>
+	<key>711</key>
+	<dict>
+		<key>icon</key>
+		<string>smoke</string>
+		<key>label</key>
+		<string>smoke</string>
+	</dict>
+	<key>721</key>
+	<dict>
+		<key>icon</key>
+		<string>day-haze</string>
+		<key>label</key>
+		<string>haze</string>
+	</dict>
+	<key>731</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>sand, dust whirls</string>
+	</dict>
+	<key>741</key>
+	<dict>
+		<key>icon</key>
+		<string>fog</string>
+		<key>label</key>
+		<string>fog</string>
+	</dict>
+	<key>751</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>sand</string>
+	</dict>
+	<key>761</key>
+	<dict>
+		<key>icon</key>
+		<string>dust</string>
+		<key>label</key>
+		<string>dust</string>
+	</dict>
+	<key>762</key>
+	<dict>
+		<key>icon</key>
+		<string>smog</string>
+		<key>label</key>
+		<string>volcanic ash</string>
+	</dict>
+	<key>771</key>
+	<dict>
+		<key>icon</key>
+		<string>day-windy</string>
+		<key>label</key>
+		<string>squalls</string>
+	</dict>
+	<key>781</key>
+	<dict>
+		<key>icon</key>
+		<string>tornado</string>
+		<key>label</key>
+		<string>tornado</string>
+	</dict>
+	<key>800</key>
+	<dict>
+		<key>icon</key>
+		<string>sunny</string>
+		<key>label</key>
+		<string>clear sky</string>
+	</dict>
+	<key>801</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy</string>
+		<key>label</key>
+		<string>few clouds</string>
+	</dict>
+	<key>802</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy</string>
+		<key>label</key>
+		<string>scattered clouds</string>
+	</dict>
+	<key>803</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy</string>
+		<key>label</key>
+		<string>broken clouds</string>
+	</dict>
+	<key>804</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy</string>
+		<key>label</key>
+		<string>overcast clouds</string>
+	</dict>
+	<key>900</key>
+	<dict>
+		<key>icon</key>
+		<string>tornado</string>
+		<key>label</key>
+		<string>tornado</string>
+	</dict>
+	<key>901</key>
+	<dict>
+		<key>icon</key>
+		<string>hurricane</string>
+		<key>label</key>
+		<string>tropical storm</string>
+	</dict>
+	<key>902</key>
+	<dict>
+		<key>icon</key>
+		<string>hurricane</string>
+		<key>label</key>
+		<string>hurricane</string>
+	</dict>
+	<key>903</key>
+	<dict>
+		<key>icon</key>
+		<string>snowflake-cold</string>
+		<key>label</key>
+		<string>cold</string>
+	</dict>
+	<key>904</key>
+	<dict>
+		<key>icon</key>
+		<string>hot</string>
+		<key>label</key>
+		<string>hot</string>
+	</dict>
+	<key>905</key>
+	<dict>
+		<key>icon</key>
+		<string>windy</string>
+		<key>label</key>
+		<string>windy</string>
+	</dict>
+	<key>906</key>
+	<dict>
+		<key>icon</key>
+		<string>hail</string>
+		<key>label</key>
+		<string>hail</string>
+	</dict>
+	<key>951</key>
+	<dict>
+		<key>icon</key>
+		<string>sunny</string>
+		<key>label</key>
+		<string>calm</string>
+	</dict>
+	<key>952</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>light breeze</string>
+	</dict>
+	<key>953</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>gentle breeze</string>
+	</dict>
+	<key>954</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>moderate breeze</string>
+	</dict>
+	<key>955</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>fresh breeze</string>
+	</dict>
+	<key>956</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>strong breeze</string>
+	</dict>
+	<key>957</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>high wind, near gale</string>
+	</dict>
+	<key>958</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>gale</string>
+	</dict>
+	<key>959</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>severe gale</string>
+	</dict>
+	<key>960</key>
+	<dict>
+		<key>icon</key>
+		<string>thunderstorm</string>
+		<key>label</key>
+		<string>storm</string>
+	</dict>
+	<key>961</key>
+	<dict>
+		<key>icon</key>
+		<string>thunderstorm</string>
+		<key>label</key>
+		<string>violent storm</string>
+	</dict>
+	<key>962</key>
+	<dict>
+		<key>icon</key>
+		<string>cloudy-gusts</string>
+		<key>label</key>
+		<string>hurricane</string>
+	</dict>
+</dict>
+</plist>
