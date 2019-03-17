@@ -43,7 +43,7 @@ Screens
 ## Libraries I used
 
 * CoreLocation  -  Core Location provides services for determining a device's geographic location
-* Alamofire  - SwiftyJSON makes it easy to deal with JSON data in Swift
-* SwiftyJSON -  SwiftyJSON makes it easy to deal with JSON data in Swift.
+* Alamofire     - Alamofire is an HTTP networking library written in Swift
+* SwiftyJSON    -  SwiftyJSON makes it easy to deal with JSON data in Swift.
 
 
