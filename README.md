@@ -40,4 +40,10 @@ Screens
 * How to pass data between View Controllers.
 * Learn and use Switch statements
 
+## Libraries I used
+
+* CoreLocation   // Alamofire is an HTTP networking library written in Swift
+* Alamofire     // SwiftyJSON makes it easy to deal with JSON data in Swift
+* SwiftyJSON    // SwiftyJSON makes it easy to deal with JSON data in Swift.
+
 
