@@ -5,7 +5,7 @@
 
 ## My Goal
 
-Develop a iOS Weather App ![alt text](https://raw.githubusercontent.com/weather_app_icon/Icon-Small%403x.png)
+Develop a iOS Weather App ![alt text](/weather_app_icon/Icon-Small%403x.png)
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
