@@ -29,15 +29,15 @@ weather. By bringing up the app you get the current weather instantly.
 
 ## What I have learned
 
-* The Use CocoaPods to manage and use open source code libraries. 
-* The use Networking calls.
-* The use public web-based APIs to fetch data.
-* Parse data organised in JSON format.
-* Core Location and utilising the iPhone’s inbuilt GPS. 
-* Navigation between View Controllers using Segues.
-* The use Delegates and Protocols.
-* How to pass data between View Controllers.
-* The use Switch statements
+- [x] The Use CocoaPods to manage and use open source code libraries. 
+- [x] The use Networking calls.
+- [x] The use public web-based APIs to fetch data.
+- [x] Parse data organised in JSON format.
+- [x] Core Location and utilising the iPhone’s inbuilt GPS. 
+- [x] Navigation between View Controllers using Segues.
+- [x] The use Delegates and Protocols.
+- [x] How to pass data between View Controllers.
+* - [x] The use Switch statements
 
 ## Libraries I used -  [CocoaPods is a dependency manager for Swift](https://cocoapods.org/)
 
