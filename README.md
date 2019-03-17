@@ -1,4 +1,5 @@
 
+![App](App.png)
 
 # Weather App
 
@@ -7,11 +8,10 @@
 
 Develope Weather App
 =======
->>>>>>> f776d111fa892aa2e5293922458798c97c59c320
 
 Develop a iOS Weather App
 
-<<<<<<< HEAD
+
 Weather is a location-aware weather app. It will find out where you are in the world and query an open source weather service to retrieve the temperature and weather conditions. Also, you can change the city at the tap of a button. Want to know what it’s like in Victoria? Weather is here to help. 
 
 =======
