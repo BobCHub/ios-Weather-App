@@ -37,7 +37,12 @@ weather. By bringing up the app you get the current weather instantly.
 - [x] Navigation between View Controllers using Segues.
 - [x] The use Delegates and Protocols.
 - [x] How to pass data between View Controllers.
-* - [x] The use Switch statements
+- [x] The use Switch statements
+
+### Want to add
+
+- [ ] Intragration of pList
+- [ ] Add Weather Forcast
 
 ## Libraries I used -  [CocoaPods is a dependency manager for Swift](https://cocoapods.org/)
 
@@ -45,8 +50,5 @@ weather. By bringing up the app you get the current weather instantly.
 * [Alamofire -  CocoaPods](https://cocoapods.org/pods/Alamofire) - Alamofire is an HTTP networking library written in Swift [Alamofire GitHub](https://github.com/Alamofire/Alamofire)
 * [SwiftyJSON -  CocoaPods](https://cocoapods.org/pods/SwiftyJSON) -  SwiftyJSON makes it easy to deal with JSON data in Swift. [SwiftyJSON GitHub](https://github.com/SwiftyJSON/SwiftyJSON)
 
-### Want to add
 
-- [ ] Intragration of pList
-- [x] Add Weather Forcast
 
