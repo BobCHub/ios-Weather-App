@@ -42,7 +42,8 @@ weather. By bringing up the app you get the current weather instantly.
 ### Want to add
 
 - [ ] Intragration of pList
-- [ ] Add Weather Forcast
+- [ ] Add Three day Weather Forcast
+- [ ] Add More API Information
 
 ## Libraries I used -  [CocoaPods is a dependency manager for Swift](https://cocoapods.org/)
 
