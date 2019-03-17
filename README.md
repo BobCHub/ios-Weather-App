@@ -4,10 +4,10 @@
 # Weather App
 
 ## My Goal
-<<<<<<< HEAD
+
 
 Develope Weather App
-=======
+
 
 Develop a iOS Weather App
 
@@ -32,7 +32,7 @@ using my API Key
 3. Weather Screen for selected City
 • Displays Current Temperature and Weather Condition (Image)
 
->>>>>>> f776d111fa892aa2e5293922458798c97c59c320
+
 ## What I have learned
 
 * How to use CocoaPods to manage and use open source code libraries. 
@@ -46,9 +46,4 @@ using my API Key
 * How to pass data between View Controllers.
 * Learn and use Switch statements
 
-<<<<<<< HEAD
-=======
 
-
-
->>>>>>> f776d111fa892aa2e5293922458798c97c59c320
