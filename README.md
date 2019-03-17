@@ -40,7 +40,7 @@ Screens
 * How to pass data between View Controllers.
 * Learn and use Switch statements
 
-## Libraries I used
+## Libraries I used - CocoaPods is a dependency manager for Swift 
 
 * CoreLocation  -  Core Location provides services for determining a device's geographic location
 * Alamofire     - Alamofire is an HTTP networking library written in Swift
