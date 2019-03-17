@@ -1,20 +1,15 @@
 
+![App](App.png)
 
 # Weather App
 
 ## My Goal
-<<<<<<< HEAD
-
-Develope Weather App
-=======
->>>>>>> f776d111fa892aa2e5293922458798c97c59c320
 
 Develop a iOS Weather App
 
-<<<<<<< HEAD
 Weather is a location-aware weather app. It will find out where you are in the world and query an open source weather service to retrieve the temperature and weather conditions. Also, you can change the city at the tap of a button. Want to know what it’s like in Victoria? Weather is here to help. 
 
-=======
+
 ## What I will create
 
 I purpose a weather app using the Openweathermap weather API. The main page uses geo
@@ -32,7 +27,7 @@ using my API Key
 3. Weather Screen for selected City
 • Displays Current Temperature and Weather Condition (Image)
 
->>>>>>> f776d111fa892aa2e5293922458798c97c59c320
+
 ## What I have learned
 
 * How to use CocoaPods to manage and use open source code libraries. 
@@ -46,9 +41,4 @@ using my API Key
 * How to pass data between View Controllers.
 * Learn and use Switch statements
 
-<<<<<<< HEAD
-=======
 
-
-
->>>>>>> f776d111fa892aa2e5293922458798c97c59c320
