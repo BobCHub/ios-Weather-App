@@ -4,11 +4,24 @@
 
 ## My Goal
 
-Develope Weather App
+Develop a iOS Weather App
 
-## What you will create
+## What I will create
 
-Weather is a location-aware weather app. It will find out where you are in the world and query an open source weather service to retrieve the temperature and weather conditions. Also, you can change the city at the tap of a button. Want to know what it’s like in Rio? Clima is here to help. Weather apps are so popular that they get their own category in the App Store.
+I purpose a weather app using the Openweathermap weather API. The main page uses geo
+location to bring up the users local weather. The user can use switch button to migrate to
+screen and select new city. The intended Audience is anyone that is interested in the current
+weather. By bringing up the app you get the current weather instantly.
+Screens
+1. On Launch - location based weather screen
+• get Geolocation and send to Openweathermap weather API to acquire local weather data
+using my API Key
+• Displays Current Temperature and Weather Condition (Image)
+• Possible background from Unsplash Picture API
+2. Search Screen - Search different City
+• Allow User to get weather in different City.
+3. Weather Screen for selected City
+• Displays Current Temperature and Weather Condition (Image)
 
 ## What I have learned
 
