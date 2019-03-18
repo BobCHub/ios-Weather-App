@@ -65,3 +65,7 @@ weather. By bringing up the app you get the current weather instantly.
 *  [OpenWeatherMapAPI](https://cocoapods.org/pods/OpenWeatherMapAPI)
 *  [OpenWeatherMapKit](https://cocoapods.org/pods/OpenWeatherMapKit)
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
