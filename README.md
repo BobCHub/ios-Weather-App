@@ -45,6 +45,7 @@ weather. By bringing up the app you get the current weather instantly.
 - [ ] Add Three day Weather Forcast
 - [ ] Add More API Information to screen - Humitity, Counrty Code, Weather Description
 - [ ] Add UI Switch to toggle between Celcius and Fahrenheit
+- [ ] Change Background Image depending on night or day
 
 ## Libraries I used -  [CocoaPods is a dependency manager for Swift](https://cocoapods.org/)
 
