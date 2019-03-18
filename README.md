@@ -57,3 +57,7 @@ weather. By bringing up the app you get the current weather instantly.
 ## CocoaPods commands
 * pod update
 
+## Other possible CocoaPods 
+*  [OpenWeatherMapAPI](https://cocoapods.org/pods/OpenWeatherMapAPI)
+*  [OpenWeatherMapKit](https://cocoapods.org/pods/OpenWeatherMapKit)
+
