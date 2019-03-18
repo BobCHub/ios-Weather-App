@@ -18,7 +18,7 @@ weather. By bringing up the app you get the current weather instantly.
 ## Screens
 
 1. On Launch - location based weather screen
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* get Geolocation and send to Openweathermap weather API to acquire local weather data using my API Key
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; get Geolocation and send to Openweathermap weather API to acquire local weather data using my API Key
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Displays Current Temperature and Weather Condition (Image)
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Possible background from Unsplash Picture API
 2. Search Screen - Search different City
