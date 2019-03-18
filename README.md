@@ -23,7 +23,7 @@ weather. By bringing up the app you get the current weather instantly.
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Possible background from Unsplash Picture API
 2. Search Screen - Search different City
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Allow User to get weather in different City.
-3. Weather Screen for selected City
+3. Back to original Weather Screen for selected City
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Displays Current Temperature and Weather Condition (Image)
 
 
