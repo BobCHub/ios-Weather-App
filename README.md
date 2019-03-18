@@ -55,7 +55,9 @@ weather. By bringing up the app you get the current weather instantly.
 * [SwiftyJSON -  CocoaPods](https://cocoapods.org/pods/SwiftyJSON) -  SwiftyJSON makes it easy to deal with JSON data in Swift. [SwiftyJSON GitHub](https://github.com/SwiftyJSON/SwiftyJSON)
 
 ## CocoaPods commands
-* pod update
+* pod update [POD_NAMES ...] - Updates the Pods identified by the specified POD_NAMES
+* pod list - Lists all available pods
+* pod init - creates a Podfile for the current directory 
 
 ## Other possible CocoaPods 
 *  [OpenWeatherMapAPI](https://cocoapods.org/pods/OpenWeatherMapAPI)
