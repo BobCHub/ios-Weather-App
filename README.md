@@ -5,10 +5,10 @@
 
 ## My Goal
 
-Develop a iOS Weather App
+![alt text](/weather_app_icon/Icon-Small@2x.png)  
+Develop a iOS Weather App 
 
 Weather is a location-aware weather app. It will find out where you are in the world and query an open source weather service to retrieve the temperature and weather conditions. Also, you can change the city at the tap of a button. Want to know what it’s like in Victoria? Weather is here to help. 
-
 
 ## What I will create
 
@@ -18,12 +18,12 @@ weather. By bringing up the app you get the current weather instantly.
 ## Screens
 
 1. On Launch - location based weather screen
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get Geolocation and send to Openweathermap weather API to acquire local weather data using my API Key
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; get Geolocation and send to Openweathermap weather API to acquire local weather data using my API Key
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Displays Current Temperature and Weather Condition (Image)
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Possible background from Unsplash Picture API
 2. Search Screen - Search different City
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Allow User to get weather in different City.
-3. Weather Screen for selected City
+3. Back to original Weather Screen for selected City
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Displays Current Temperature and Weather Condition (Image)
 
 
@@ -41,9 +41,12 @@ weather. By bringing up the app you get the current weather instantly.
 
 ### Want to add
 
-- [ ] Intragration of pList for City search auto-complete using openweathermap json response
+- [ ] Incorporate Auto Complete Text Field for City Search [AutoCompleteTextField](https://cocoapods.org/pods/AutoCompleteTextField)
+- [ ] Integration of pList for City search auto-complete using openweathermap json response 
 - [ ] Add Three day Weather Forcast
-- [ ] Add More API Information
+- [ ] Add More API Information to screen - Humitity, Counrty Code, Weather Description
+- [ ] Add UI Switch to toggle between Celcius and Fahrenheit
+- [ ] Change Background Image depending on night or day
 
 ## Libraries I used -  [CocoaPods is a dependency manager for Swift](https://cocoapods.org/)
 
@@ -51,5 +54,18 @@ weather. By bringing up the app you get the current weather instantly.
 * [Alamofire -  CocoaPods](https://cocoapods.org/pods/Alamofire) - Alamofire is an HTTP networking library written in Swift [Alamofire GitHub](https://github.com/Alamofire/Alamofire)
 * [SwiftyJSON -  CocoaPods](https://cocoapods.org/pods/SwiftyJSON) -  SwiftyJSON makes it easy to deal with JSON data in Swift. [SwiftyJSON GitHub](https://github.com/SwiftyJSON/SwiftyJSON)
 
+## CocoaPods commands
+* ```pod init ```- creates a Podfile for the current directory 
+* ```pod install ```- install the dependencies in your project 
+* ```pod update [POD_NAMES ...]``` - Updates the Pods identified by the specified POD_NAMES
+* ```pod list``` - Lists all available pods
 
 
+## Other possible CocoaPods 
+*  [OpenWeatherMapAPI](https://cocoapods.org/pods/OpenWeatherMapAPI)
+*  [OpenWeatherMapKit](https://cocoapods.org/pods/OpenWeatherMapKit)
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
