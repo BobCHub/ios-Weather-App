@@ -41,7 +41,8 @@ weather. By bringing up the app you get the current weather instantly.
 
 ### Want to add
 
-- [ ] Intragration of pList for City search auto-complete using openweathermap json response [AutoCompleteTextField](https://cocoapods.org/pods/AutoCompleteTextField)
+- [ ] Intragration of pList for City search auto-complete using openweathermap json response 
+- [ ] Incorporate Auto Complete Text Field for City Search [AutoCompleteTextField](https://cocoapods.org/pods/AutoCompleteTextField)
 - [ ] Add Three day Weather Forcast
 - [ ] Add More API Information to screen - Humitity, Counrty Code, Weather Description
 - [ ] Add UI Switch to toggle between Celcius and Fahrenheit
