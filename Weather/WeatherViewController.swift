@@ -77,7 +77,7 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Change
     //MARK: - JSON Parsing
     /***************************************************************/
    
-    // updateWeatherData method here: Set openweathermap variables
+    // updateWeatherData method: Set openweathermap variables
     func updateWeatherData(json : JSON) {
         
         if let tempResult = json["main"]["temp"].double {                           // temperature Unit Default: Kelvin
