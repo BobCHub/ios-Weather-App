@@ -20,7 +20,6 @@ weather. By bringing up the app you get the current weather instantly.
 1. On Launch - location based weather screen
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; get Geolocation and send to Openweathermap weather API to acquire local weather data using my API Key
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Displays Current Temperature and Weather Condition (Image)
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Possible background from Unsplash Picture API
 2. Search Screen - Search different City
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Allow User to get weather in different City.
 3. Back to original Weather Screen for selected City
@@ -47,6 +46,7 @@ weather. By bringing up the app you get the current weather instantly.
 - [ ] Add More API Information to screen - Humitity, Counrty Code, Weather Description
 - [ ] Add UI Switch to toggle between Celcius and Fahrenheit
 - [ ] Change Background Image depending on night or day
+- [ ] Possible background from Unsplash Picture API
 
 ## Libraries I used -  [CocoaPods is a dependency manager for Swift](https://cocoapods.org/)
 
