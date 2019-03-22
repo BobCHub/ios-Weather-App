@@ -18,12 +18,12 @@ weather. By bringing up the app you get the current weather instantly.
 ## Screens
 
 1. On Launch - location based weather screen
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; get Geolocation using [CoreLocation](https://developer.apple.com/documentation/corelocation) and send lat/lon to Openweathermap weather API to acquire local weather data using my API Key
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Displays Current Temperature and Weather Condition (Image)
+* get Geolocation using [CoreLocation](https://developer.apple.com/documentation/corelocation) and send lat/lon to Openweathermap weather API to acquire local weather data using my API Key
+* Displays Current Temperature and Weather Condition (Image)
 2. Search Screen - Search different City
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Allow User to get weather in different City.
+* Allow User to get weather in different City.
 3. Back to original Weather Screen for selected City
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Displays Current Temperature and Weather Condition (Image)
+* Displays Current Temperature and Weather Condition (Image)
 
 
 ## What I have learned
